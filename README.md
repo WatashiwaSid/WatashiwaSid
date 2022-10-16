@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/Pp814o2)
+[![MasterHead](https://imgur.com/Pp814o2)]
 <h1 align="center">Hi 👋, I'm Siddhant Nautiyal</h1>
 <h3 align="center">Programmer for fun!</h3>
 <img align="right" alt="swing" width="400" src="https://raw.githubusercontent.com/comicsid/elements/3a50915936a9223b997d83ad8a2e791445ea007f/tree_swing.svg">
