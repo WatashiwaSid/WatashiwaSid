@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Open Source Security Projects. 
 - 📫 Check out my socials : linktr.ee/COMICSID
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${WatashiwaSid}.${your.repo.id}d)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${WatashiwaSid}.${71310931}d)
 
 <!---
 WatashiwaSid/WatashiwaSid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
