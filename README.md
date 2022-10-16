@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/watashiwasid" target="blank"><img src="https://img.shields.io/twitter/follow/watashiwasid?logo=twitter&style=for-the-badge" alt="watashiwasid" /></a> </p>
 
-- 🔭 I’m currently working on [Security Bytes](www.securitybytes.in)
+- 🔭 I’m currently working on [Security Bytes](https://www.securitybytes.in)
 
 - 🌱 I’m currently learning **C**
 
