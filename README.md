@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 📝 I regularly write articles on [www.securitybytes.in](www.securitybytes.in)
+- 📝 I regularly write articles on [www.securitybytes.in](https://www.securitybytes.in)
 
 - 💬 Ask me about **Penetration Testing, Linux, Cloud, Penetration Testing**
 
