@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [www.securitybytes.in](https://www.securitybytes.in)
 
-- 💬 Ask me about **Penetration Testing, Linux, Cloud, Penetration Testing**
+- 💬 Ask me about **Penetration Testing, Linux, Cloud, Operating Systems, Networks**
 
 - 📫 How to reach me **nautiyals857@gmail.com**
 
