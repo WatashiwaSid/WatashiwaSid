@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Security Bytes](https://www.securitybytes.in)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++ and DataStructures**
 
 - 📝 I regularly write articles on [www.securitybytes.in](https://www.securitybytes.in)
 
