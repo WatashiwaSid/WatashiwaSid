@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/watashiwasid" target="blank"><img src="https://img.shields.io/twitter/follow/watashiwasid?logo=twitter&style=for-the-badge" alt="watashiwasid" /></a> </p>
 
-- 🔭 I’m currently working on [Security Bytes](https://www.securitybytes.in)
+- 🔭 I’m currently working on my **own convolutional neural network** to predict tuberculosis.
 
-- 🌱 I’m currently learning **Django and Azure DevOps**
+- 🌱 I’m currently learning **Deep Learning and Data Engineering**
 
 - 📝 I regularly write articles on [www.securitybytes.in](https://www.securitybytes.in)
 
-- 💬 Ask me about **Penetration Testing, Linux, Cloud, Operating Systems, Networks**
+- 💬 Ask me about **AZURE, AWS, BIG DATA, MACHINE LEARNING**
 
 - 📫 How to reach me **nautiyals857@gmail.com**
 
@@ -26,7 +26,17 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a> 
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="debian linux" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
+</p>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=watashiwasid&show_icons=true&locale=en&layout=compact" alt="watashiwasid" /></p>
 
